@@ -1,4 +1,4 @@
-export const reduser = (state, {type, action}) => {
+export const reduser = (state, {type,git action}) => {
     switch (type) {
         case 'plus':
             return state;
